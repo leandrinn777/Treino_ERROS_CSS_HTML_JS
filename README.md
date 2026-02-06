@@ -1,2 +1,2 @@
-# Treino_ERROS_CSS_HTML_JS
-Treino_ERROS_CSS_HTML_JS
+# CA-A_ERROS_HTML_CSS_JS
+Repositório destinado ao exercício de caça erros no HTML, CSS e JS.
